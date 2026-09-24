@@ -1,0 +1,10 @@
+# Build output
+backend/target/
+frontend/dist/
+frontend/.angular/
+
+# Dependencies
+frontend/node_modules/
+
+# Local tooling
+.vscode/*.log
